@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working ot Fondly<br>🌱 I’m studying Software Engineering & Management at Gothenburg University
+🔭 I’m working at Fondly<br>🌱 I’m studying Software Engineering & Management at Gothenburg University
 
 
 ## 🌐 Socials:
